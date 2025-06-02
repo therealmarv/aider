@@ -10,6 +10,7 @@ Describe how to modify the code to complete the request.
 The editor engineer will rely solely on your instructions, so make them unambiguous and complete.
 Explain all needed code changes clearly and completely, but concisely.
 Just show the changes needed.
+If a file needs to be deleted from the project, explicitly state this on a new line using the format: `DELETE FILE: path/to/file.ext`
 
 DO NOT show the entire updated function/file/etc!
 
